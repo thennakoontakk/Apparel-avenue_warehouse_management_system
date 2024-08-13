@@ -95,9 +95,7 @@ Once the application is running, you can access it through your web browser and 
 - **Order Management**: Process and track customer orders.
 - **Inventory Management**: Monitor and manage stock levels in real time.
 - **Reports**: Generate and view financial and inventory reports.
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+.
 
 ## Project Contributors
 
