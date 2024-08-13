@@ -1,0 +1,33 @@
+/* .complaint-form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 40px;
+  padding-right: 30px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-input {
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: calc(100% - 20px); 
+}
+
+.submit-button {
+  width: 50%;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: black;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+} */

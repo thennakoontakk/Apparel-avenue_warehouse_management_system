@@ -1,0 +1,58 @@
+/* .complaint-form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 4px;
+  border: 2px solid #ccc;
+  border-radius: 7px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f0f8ff; 
+  font-size: 15px;
+}
+
+.form-heading {
+  text-align: center; 
+  font-family: Arial, sans-serif; 
+  font-style: italic;
+}
+
+.complaint-form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 40px;
+  padding-right: 30px;
+}
+
+.form-group {
+  display: flex;
+  margin-bottom: 25px;
+}
+
+.form-label {
+  flex: 1;
+  margin-right: 8px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.form-input {
+  flex: 2;
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.submit-button {
+  width: 50%;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: black;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+} */

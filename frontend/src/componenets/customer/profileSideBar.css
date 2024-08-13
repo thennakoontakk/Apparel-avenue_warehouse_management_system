@@ -1,0 +1,21 @@
+/* profilesidebar.css */
+
+/* Adjust width and height of sidebar */
+.profile-sidebar {
+  width: 50px; /* Change the width as desired */
+  height: 100px; /* Change the height as desired */
+}
+
+/* Adjust position */
+.profile-sidebar {
+  position: fixed;
+  top: 35%; /* Adjust the top position */
+  left: 5%; /* Adjust the left position */
+  transform: translateY(-50%);
+}
+
+/* Style for list items */
+.list-group-item:hover {
+  background-color: #f8f9fa;
+  color: #007bff;
+}

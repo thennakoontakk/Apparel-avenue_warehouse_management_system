@@ -1,0 +1,16 @@
+.hover-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.font-size-large {
+  font-size: 28px; /* Adjust the size as needed */
+}
+
+.font-size-h3 {
+  font-size: 40px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.total-count {
+  font-size: 28px;
+}

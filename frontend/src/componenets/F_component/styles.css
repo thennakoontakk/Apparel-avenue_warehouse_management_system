@@ -1,0 +1,149 @@
+.search-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 15px; 
+}
+
+.search-input {
+  width: 100px; 
+  margin-right: 10px; 
+}
+
+.table th {
+  font-size: 18px;
+}
+
+
+.btn {
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #7699db;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #8998a8;
+}
+
+.btn-danger {
+  background-color: #8b565c;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background-color: #be6870;
+}
+
+.btn-success {
+  background-color: #8288dfcb;
+  color: #fff;
+}
+
+.btn-success:hover {
+  background-color: #262fb6;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+.body {
+  background-color: #f2f2f2; 
+}
+
+.summary-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f0f0f0; 
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.summary-card {
+  flex: 1;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.summary-value {
+  font-size: 24px;
+  color: black;
+}
+
+
+.invoice-details {
+  border: 1px solid #ccc;
+  padding: 30px;
+  margin-bottom: 20px;
+  text-align: center; 
+}
+
+.invoice-details p {
+  margin: 10px 0; 
+}
+
+.invoice-details button {
+  margin-top: 20px; 
+  padding: 10px 20px; 
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.invoice-details button:hover {
+  background-color: #0056b3;
+}
+
+.dashboard-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.dashboard-buttons button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 10px; 
+}
+
+.dashboard-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.card-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+}
