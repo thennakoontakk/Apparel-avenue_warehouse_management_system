@@ -99,4 +99,11 @@ Once the application is running, you can access it through your web browser and 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Project Contributors
+
+This project is a collaborative effort by a dedicated team of eight members. Each team member has contributed their expertise and hard work to bring the Apparel Avenue Warehouse Management System to life. We have collectively worked on various aspects of the project, from backend development and database management to frontend design and user experience.
+
+Our teamwork and collaboration have been key to the success of this project, and we are proud to present it as a result of our collective efforts.
+
+
 
